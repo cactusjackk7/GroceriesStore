@@ -10,6 +10,11 @@
 </head>
 <body>
 <script src="app.js"></script>
+<!-- php part -->
+<?php 
    
+?>   
+<!-- body part -->
+
 </body>
 </html>
