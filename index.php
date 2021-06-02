@@ -24,8 +24,8 @@
         <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-transparent" id="page-navigation">
             <div class="container">
                 <!-- Navbar Brand -->
-                <a href="index.html" class="navbar-brand">
-                    <img src="assets/img/logo/logo.png" alt="">
+                <a href="index.php" class="navbar-brand">
+                    <img src="assets/img/logofruithuis.png" alt="fruithuis">
                 </a>
 
                 <!-- Toggle Button -->
@@ -37,7 +37,7 @@
                     <!-- Navbar Menu -->
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
-                            <a href="shop.html" class="nav-link">Shop</a>
+                            <a href="shop.html" class="nav-link">Winkel</a>
                         </li>
                         <li class="nav-item">
                             <a href="register.html" class="nav-link">Register</a>
@@ -47,16 +47,16 @@
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="javascript:void(0)" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <div class="avatar-header"><img src="assets/img/logo/avatar.jpg"></div> John Doe
+                                <div class="avatar-header"><img src="assets/img/logo/avatar.jpg"></div> Klant
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item" href="transaction.html">Transactions History</a>
-                                <a class="dropdown-item" href="setting.html">Settings</a>
+                                <a class="dropdown-item" href="transaction.html">Transactiegeschiedenis</a>
+                                <a class="dropdown-item" href="setting.html">Instellingen</a>
                             </div>
                           </li>
                         <li class="nav-item dropdown">
                             <a href="javascript:void(0)" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <i class="fa fa-shopping-basket"></i> <span class="badge badge-primary">5</span>
+                                <i class="fa fa-shopping-basket"></i> <span class="badge badge-primary"></span>
                             </a>
                             <div class="dropdown-menu shopping-cart">
                                 <ul>
@@ -66,59 +66,12 @@
                                     <li>
                                         <div class="shopping-cart-list">
                                             <div class="media">
-                                                <img class="d-flex mr-3" src="assets/img/logo/avatar.jpg" width="60">
-                                                <div class="media-body">
-                                                    <h5><a href="javascript:void(0)">Carrot</a></h5>
-                                                    <p class="price">
-                                                        <span class="discount text-muted">Rp. 700.000</span>
-                                                        <span>Rp. 100.000</span>
-                                                    </p>
-                                                    <p class="text-muted">Qty: 1</p>
-                                                </div>
-                                            </div>
-                                            <div class="media">
-                                                <img class="d-flex mr-3" src="assets/img/logo/avatar.jpg" width="60">
-                                                <div class="media-body">
-                                                    <h5><a href="javascript:void(0)">Carrot</a></h5>
-                                                    <p class="price">
-                                                        <span class="discount text-muted">Rp. 700.000</span>
-                                                        <span>Rp. 100.000</span>
-                                                    </p>
-                                                    <p class="text-muted">Qty: 1</p>
-                                                </div>
-                                            </div>
-                                            <div class="media">
-                                                <img class="d-flex mr-3" src="assets/img/logo/avatar.jpg" width="60">
-                                                <div class="media-body">
-                                                    <h5><a href="javascript:void(0)">Carrot</a></h5>
-                                                    <p class="price">
-                                                        <span class="discount text-muted">Rp. 700.000</span>
-                                                        <span>Rp. 100.000</span>
-                                                    </p>
-                                                    <p class="text-muted">Qty: 1</p>
-                                                </div>
-                                            </div>
-                                            <div class="media">
-                                                <img class="d-flex mr-3" src="assets/img/logo/avatar.jpg" width="60">
-                                                <div class="media-body">
-                                                    <h5><a href="javascript:void(0)">Carrot</a></h5>
-                                                    <p class="price">
-                                                        <span class="discount text-muted">Rp. 700.000</span>
-                                                        <span>Rp. 100.000</span>
-                                                    </p>
-                                                    <p class="text-muted">Qty: 1</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li>
                                         <div class="drop-title d-flex justify-content-between">
                                             <span>Total:</span>
-                                            <span class="text-primary"><strong>Rp. 2000.000</strong></span>
                                         </div>
                                     </li>
                                     <li class="d-flex justify-content-between pl-3 pr-3 pt-3">
-                                        <a href="cart.html" class="btn btn-secondary">View Cart</a>
+                                        <a href="cart.html" class="btn btn-secondary">Zie Winkelwagen</a>
                                         <a href="checkout.html" class="btn btn-primary">Checkout</a>
                                     </li>
                                 </ul>
@@ -139,11 +92,12 @@
                 </video>
                 <div class="container">
                     <h1 class="pt-5">
-                        Save time and leave the<br>
-                        groceries to us.
+                        Bespaar tijd
+                        en kom bij ons.<br>
+                        
                     </h1>
                     <p class="lead">
-                        Always Fresh Everyday.
+                        Elke dag vers.
                     </p>
 
                     <div class="row">
@@ -156,10 +110,12 @@
                                 </div>
                                 <div class="card-body">
                                     <h4 class="card-title">
-                                        Buy
+                                        Koop
                                     </h4>
                                     <p class="card-text">
-                                        Simply click-to-buy on the product you want and submit your order when you're done.
+                                    
+                                        Klik om het gewenste product te kopen en verzend uw bestelling wanneer u klaar bent.
+
                                     </p>
 
                                 </div>
@@ -177,7 +133,7 @@
                                         Harvest
                                     </h4>
                                     <p class="card-text">
-                                        Our team ensures the produce quality is up to our standard and delivers to your door within 24 hours of harvest day.
+                                        Wij leveren het beste kwaliteit. Vandaag bestelt, morgen in huis!.
                                     </p>
 
                                 </div>
