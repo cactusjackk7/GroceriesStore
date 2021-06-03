@@ -47,7 +47,7 @@
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="javascript:void(0)" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <div class="avatar-header"><img src="assets/img/logo/avatar.jpg"></div> Klant
+                                <div class="avatar-header"><img src=""></div> Klant
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <a class="dropdown-item" href="transaction.html">Transactiegeschiedenis</a>
@@ -130,7 +130,7 @@
                                 </div>
                                 <div class="card-body">
                                     <h4 class="card-title">
-                                        Harvest
+                                        Oogst
                                     </h4>
                                     <p class="card-text">
                                         Wij leveren het beste kwaliteit. Vandaag bestelt, morgen in huis!.
@@ -148,10 +148,10 @@
                                 </div>
                                 <div class="card-body">
                                     <h4 class="card-title">
-                                        Delivery
+                                        Verzending
                                     </h4>
                                     <p class="card-text">
-                                        Farmers receive your orders two days in advance so they can prepare for harvest exactly as your orders – no wasted produce.
+                                    Orders komen zo snel mogelijk naar de klant toe!
                                     </p>
                                 </div>
                             </div>
@@ -162,7 +162,7 @@
         </div>
 
         <section id="why">
-            <h2 class="title">Why Freschery</h2>
+            <h2 class="title">Waarom wij?</h2>
             <div class="container">
                 <div class="row">
                     <div class="col-md-4">
@@ -174,10 +174,12 @@
                             </div>
                             <div class="card-body">
                                 <h4 class="card-title">
-                                    Straight from the Farm
+                                    Rechtstreeks uit de boederij!
                                 </h4>
                                 <p class="card-text">
-                                    Our farm-to-table concept emphasizes on getting the fresh produce directly from local farms to your tables within one day, hence you know you get the freshest produce straight from harvest.
+                                Onze boederij-concept zorgt ervoor dat ons product niet alleen vers is, maar ook gezond. Ons product komt 
+                                ook heel snel naar de klant.
+
                                 </p>
 
                             </div>
@@ -192,10 +194,10 @@
                             </div>
                             <div class="card-body">
                                 <h4 class="card-title">
-                                    Know Your Farmers
+                                   Ken je boeren!
                                 </h4>
                                 <p class="card-text">
-                                    We want you to know exactly who is growing your food by having the farmers profile on each item and farmers page. You’re welcome to visit the farms and see the love they put into growing your food.
+                                    Wij werken al jaren lang met onze boeren. Wij hebben een goede en vertrouwde band met onze boeren.
                                 </p>
 
                             </div>
@@ -210,11 +212,10 @@
                             </div>
                             <div class="card-body">
                                 <h4 class="card-title">
-                                    Improving Farmers’ Livelihood
+                                    Progressiefe boeren
                                 </h4>
                                 <p class="card-text">
-                                    Slowly but sure, by cutting the complex supply chain and food system, we hope to improve the welfare of farmers by giving them the returns they deserve for their hard work.
-                                </p>
+                                Door de complexe toeleveringsketen en het voedselsysteem door te snijden, hopen we langzaam maar zeker het welzijn van boeren te verbeteren door ze het rendement te geven dat ze verdienen voor hun harde werk.                                </p>
                             </div>
                         </div>
                     </div>
@@ -227,14 +228,14 @@
         </section>
 
         <section id="categories" class="pb-0 gray-bg">
-            <h2 class="title">Categories</h2>
+            <h2 class="title">Categorieën</h2>
             <div class="landing-categories owl-carousel">
                 <div class="item">
                     <div class="card rounded-0 border-0 text-center">
                         <img src="assets/img/vegetables.jpg">
                         <div class="card-img-overlay d-flex align-items-center justify-content-center">
                             <!-- <h4 class="card-title">Vegetables</h4> -->
-                            <a href="shop.html" class="btn btn-primary btn-lg">Vegetables</a>
+                            <a href="shop.html" class="btn btn-primary btn-lg">Groentes</a>
                         </div>
                     </div>
                 </div>
@@ -243,7 +244,7 @@
                         <img src="assets/img/fruits.jpg">
                         <div class="card-img-overlay d-flex align-items-center justify-content-center">
                             <!-- <h4 class="card-title">Fruits</h4> -->
-                            <a href="shop.html" class="btn btn-primary btn-lg">Fruits</a>
+                            <a href="shop.html" class="btn btn-primary btn-lg">Fruit</a>
                         </div>
                     </div>
                 </div>
@@ -252,7 +253,7 @@
                         <img src="assets/img/meats.jpg">
                         <div class="card-img-overlay d-flex align-items-center justify-content-center">
                             <!-- <h4 class="card-title">Meats</h4> -->
-                            <a href="shop.html" class="btn btn-primary btn-lg">Meats</a>
+                            <a href="shop.html" class="btn btn-primary btn-lg">Vlees</a>
                         </div>
                     </div>
                 </div>
@@ -261,7 +262,7 @@
                         <img src="assets/img/fish.jpg">
                         <div class="card-img-overlay d-flex align-items-center justify-content-center">
                             <!-- <h4 class="card-title">Fishes</h4> -->
-                            <a href="shop.html" class="btn btn-primary btn-lg">Fishes</a>
+                            <a href="shop.html" class="btn btn-primary btn-lg">Vis</a>
                         </div>
                     </div>
                 </div>
@@ -270,7 +271,7 @@
                         <img src="assets/img/frozen.jpg">
                         <div class="card-img-overlay d-flex align-items-center justify-content-center">
                             <!-- <h4 class="card-title">Frozen Foods</h4> -->
-                            <a href="shop.html" class="btn btn-primary btn-lg">Frozen Foods</a>
+                            <a href="shop.html" class="btn btn-primary btn-lg">Bevroren Goederen</a>
                         </div>
                     </div>
                 </div>
@@ -279,7 +280,7 @@
                         <img src="assets/img/package.jpg">
                         <div class="card-img-overlay d-flex align-items-center justify-content-center">
                             <!-- <h4 class="card-title">Package</h4> -->
-                            <a href="shop.html" class="btn btn-primary btn-lg">Package</a>
+                            <a href="shop.html" class="btn btn-primary btn-lg">Pakketen</a>
                         </div>
                     </div>
                 </div>
@@ -291,71 +292,24 @@
             <div class="row">
                 <div class="col-md-3">
                     <h5>About</h5>
-                    <p>Nisi esse dolor irure dolor eiusmod ex deserunt proident cillum eu qui enim occaecat sunt aliqua anim eiusmod qui ut voluptate.</p>
+                    <p>Wij, 'T Fruithuisje zijn een betrouwbare goederenwinkel. Wij zorgen ervoor dat jij jouw product zo vers en zo snel mogelijk hebt.</p>
                 </div>
                 <div class="col-md-3">
-                    <h5>Links</h5>
-                    <ul>
-                        <li>
-                            <a href="about.html">About</a>
-                        </li>
-                        <li>
-                            <a href="contact.html">Contact Us</a>
-                        </li>
-                        <li>
-                            <a href="faq.html">FAQ</a>
-                        </li>
-                        <li>
-                            <a href="javascript:void(0)">How it Works</a>
-                        </li>
-                        <li>
-                            <a href="terms.html">Terms</a>
-                        </li>
-                        <li>
-                            <a href="privacy.html">Privacy Policy</a>
-                        </li>
-                    </ul>
+                    
                 </div>
                 <div class="col-md-3">
                      <h5>Contact</h5>
                      <ul>
                          <li>
-                            <a href="tel:+620892738334"><i class="fa fa-phone"></i> 08272367238</a>
+                            <a href="tel:"><i class="fa fa-phone"></i> Moet nog komen</a>
                         </li>
                         <li>
-                            <a href="mailto:hello@domain.com"><i class="fa fa-envelope"></i> hello@domain.com</a>
+                            <a href="mailto:hello@domain.com"><i class="fa fa-envelope"></i> tfruithuisje</a> <!-- weet de mail en het telefoonnummer nog niet -->
                          </li>
                      </ul>
 
-                     <h5>Follow Us</h5>
-                     <ul class="social">
-                         <li>
-                            <a href="javascript:void(0)" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                         </li>
-                         <li>
-                            <a href="javascript:void(0)" target="_blank"><i class="fab fa-instagram"></i></a>
-                         </li>
-                         <li>
-                            <a href="javascript:void(0)" target="_blank"><i class="fab fa-youtube"></i></a>
-                         </li>
-                     </ul>
-                </div>
-                <div class="col-md-3">
-                     <h5>Get Our App</h5>
-                     <ul class="mb-0">
-                         <li class="download-app">
-                             <a href="#"><img src="assets/img/playstore.png"></a>
-                         </li>
-                         <li style="height: 200px">
-                             <div class="mockup">
-                                 <img src="assets/img/mockup.png">
-                             </div>
-                         </li>
-                     </ul>
-                </div>
-            </div>
-        </div>
-        <p class="copyright">&copy; 2018 Freshcery | Groceries Organic Store. All rights reserved.</p>
+                     
+        <p class="copyright">&copy; 2021 'T Fruithuisje. Alle rechte gereseveerd.</p>
     </footer>
 
     <script type="text/javascript" src="assets/js/jquery.js"></script>
