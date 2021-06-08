@@ -19,6 +19,7 @@
 
 </head>
 <body>
+   <form action="connect.php" method="post">
     <div class="page-header">
         <!--=============== Navbar ===============-->
         <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-transparent" id="page-navigation">
